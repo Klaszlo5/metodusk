@@ -3,6 +3,10 @@ package metodusok;
 public class Metodusok {
 
     public static void main(String[] args) {
+        feladatok();
+    }
+             
+    static void feladatok(){
         int szamn=elso10szamosszege();
         String szam = (szamn)
         kiir(szam)
@@ -16,7 +20,7 @@ public class Metodusok {
         kiir(osszead(a, b);
         int osszeadszamok = osszead(osszead(1, 2), osszead(3, 4));
         kiir(a,b,c,d,osszeadszamok);
-    }
+    }      
     
     private static int elso10szamosszege(){
      int osszeg=0;
