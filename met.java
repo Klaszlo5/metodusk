@@ -3,7 +3,11 @@ package metodusok;
 public class Metodusok {
 
     public static void main(String[] args) {
-        
+        int szamn=elso10szamosszege();
+        String szam = (szamn)
+        kiir(szam)
+        szamn=osszead(1,1);
+        kiir(szamn)
     }
     
     private static int elso10szamosszege(){
