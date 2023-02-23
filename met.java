@@ -3,8 +3,7 @@ package metodusok;
 public class Metodusok {
 
     public static void main(String[] args) {
-        kiir(elso10szamosszege);
-        kiir(osszead);
+        
     }
     
     private static int elso10szamosszege(){
