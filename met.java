@@ -12,7 +12,7 @@ public class Metodusok {
         szamn=osszead(1,osszead(1, osszead(4, 4)));
         kiir(szamn);  
         kiir(Math.sqrt(osszead(1, osszead(3, 2)))));   
-        int a = 1, b = 2, c = 3;
+        int a = 1, b = 2, c = 3, d = 4;
         kiir(osszead(a, b);
         int osszeadszamok = osszead(osszead(1, 2), osszead(3, 4));
         kiir(a,b,c,d,osszeadszamok);
