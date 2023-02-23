@@ -8,6 +8,8 @@ public class Metodusok {
         kiir(szam)
         szamn=osszead(1,1);
         kiir(szamn)
+        kiir(osszead(1,2),osszead(3,4);
+        kiir(Math.sqrt(osszead(1, osszead(3, 2)))));   
     }
     
     private static int elso10szamosszege(){
